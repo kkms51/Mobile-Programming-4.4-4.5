@@ -16,17 +16,17 @@
 -->
 <resources>
     <string-array name="words">
-        <item>aargh</item>
-        <item>about</item>
-        <item>acidic</item>
-        <item>acne</item>
-        <item>acrid</item>
-        <item>acute</item>
-        <item>alphabet</item>
-        <item>anchor</item>
-        <item>anecdote</item>
-        <item>animal</item>
-        <item>automobile</item>
+        <item>all</item>
+        <item>am</item>
+        <item>aqua</item>
+        <item>adict</item>
+        <item>abid</item>
+        <item>as</item>
+        <item>and</item>
+        <item>ann</item>
+        <item>antidote</item>
+        <item>anime</item>
+        <item>auto</item>
         <item>awesome</item>
         <item>back</item>
         <item>balloon</item>
